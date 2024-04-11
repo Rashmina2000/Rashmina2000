@@ -31,7 +31,7 @@
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
-![snake gif](https://github.com/Rashmina2000/gitsnake/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Rashmina2000/Rashmina2000/blob/output/github-contribution-grid-snake.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
