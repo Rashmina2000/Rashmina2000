@@ -35,13 +35,14 @@
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
 </div>
-
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rashmina2000/Rashmina2000/output/github-contribution-grid-snake-dark.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rashmina2000/Rashmina2000/output/github-contribution-grid-snake-dark.svg">
 </picture>
+-->
 
-![snake gif](https://github.com/Rashmina2000/Rashmina2000/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Rashmina2000/Rashmina2000/blob/output/github-contribution-grid-snake-dark.svg)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
